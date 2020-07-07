@@ -1,0 +1,19 @@
+https://towardsdatascience.com/five-not-well-known-machine-learning-architectures-that-will-help-you-move-from-pilot-to-production-a051eaae69ef
+https://medium.com/datadriveninvestor/extending-google-bert-as-question-and-answering-model-and-chatbot-e3e7b47b721a
+https://mxnet.incubator.apache.org/
+https://gluon-nlp.mxnet.io/model_zoo/machine_translation/index.html
+https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd
+https://towardsdatascience.com/language-translation-with-rnns-d84d43b40571
+
+https://genpact.zoom.us/recording/share/VXwTzcUIot-WF4sAMwBokalqkfwvqPRDXyWnzUiIN9ywIumekTziMw 
+https://akritivinc.atlassian.net/wiki/spaces/ 
+ 
+
+
+Invoice Text
+==========================================================
+1. https://nanonets.com/blog/invoice-ocr/
+2. https://nanonets.com/blog/attention-ocr-for-text-recogntion/
+3. https://github.com/HazyResearch/pdftotree
+4. https://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html
+5. https://www.groundai.com/project/cutie-learning-to-understand-documents-with-convolutional-universal-text-information-extractor/

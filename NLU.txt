@@ -1,0 +1,14 @@
+1. https://github.com/ParakweetLabs/EmailIntentDataSet
+2. https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d
+3. https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/
+4. https://mc.ai/a-guide-to-simple-text-classification-with-bert/
+5. https://gluon-nlp.mxnet.io/examples/sentence_embedding/bert.html
+6. https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/
+7. https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384
+8. https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9
+9. https://towardsdatascience.com/custom-named-entity-recognition-using-spacy-7140ebbb3718
+10. https://github.com/huggingface/pytorch-transformers/tree/master/examples
+11. https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+12. https://github.com/kamalkraj/BERT-NER
+13. https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+14. https://www.kaggle.com/akshay235/bert-implementation-on-ner-corpus
